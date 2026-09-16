@@ -1,0 +1,6 @@
+{
+  "name": "PakUni Admissions Hub",
+  "description": "Smart Pakistan university admission predictor, aggregate calculator, program comparison, entrance test tracker, and official application portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
